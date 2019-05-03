@@ -64,7 +64,7 @@ DQN|Deep Q-Network|深度Q网络
   | |discriminator|判别器
   | |divergence|散度
   | |domain adaption|领域自适应
-  | |Dropout|(原意为：辍学者、怪人，人工智能领域的含义未知)
+  | |Dropout|（在深度学习网络的训练过程中，对于神经网络单元，按照一定的概率将其暂时从网络中)丢弃
   | |Dynamic Fusion|动态融合
   |**E**|
   | |Embedding|嵌入
