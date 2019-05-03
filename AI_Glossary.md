@@ -117,7 +117,7 @@ LSA|latent semantic analysis| 潜在语义分析
   | |learner|学习器
   | |Linear Regression|线性回归
   | |log likelihood|对数似然
-  | |Logistic Regression|Logistic回归
+  | |Logistic Regression|Logistic回归
 [LSTM](http://deeplearning.cs.cmu.edu/pdfs/Hochreiter97_lstm.pdf)|Long-Short Term Memory|长短期记忆
   | |loss|损失
   |**M**|
