@@ -41,9 +41,9 @@
   | |Computation Cost|计算成本
   | |Computational Linguistics|计算语言学
   | |computer vision|计算机视觉
-  | |concept drift|概念漂移
+  | |concept drift|概念漂移
 |CRF|conditional random field|条件随机域/场
-  | |convergence|收敛
+| |convergence|收敛
 |CA|conversational agent|会话代理
   | |convexity|凸性
 |CNN|convolutional neural network|卷积神经网络
@@ -64,43 +64,43 @@ DQN|Deep Q-Network|深度Q网络
   | |discriminator|判别器
   | |divergence|散度
   | |domain adaption|领域自适应
-  | |Dropout|
-  | |Dynamic Fusion|动态融合
+  | |Dropout|(原意为：辍学者、怪人，人工智能领域的含义未知)
+  | |Dynamic Fusion|动态融合
   |**E**|
-  | |Embedding|嵌入
-  | |emotional analysis|情绪分析
-  | |End-to-End|端到端
+  | |Embedding|嵌入
+  | |emotional analysis|情绪分析
+  | |End-to-End|端到端
 EM|Expectation-Maximization|期望最大化
   | |Exploding Gradient Problem|梯度爆炸问题
 [ELM](http://axon.cs.byu.edu/~martinez/classes/678/Presentations/Yao.pdf)|Extreme Learning Machine|超限学习机
   |**F**|
 [FAIR](https://research.facebook.com/ai)|Facebook Artificial Intelligence Research|Facebook人工智能研究所
-  | |factorization|因子分解
+  | |factorization|因子分解
   | |feature engineering| 特征工程
-  | |Featured Learning|特征学习
-  | |Feedforward Neural Networks|前馈神经网络
+  | |Featured Learning|特征学习
+  | |Feedforward Neural Networks|前馈神经网络
   |**G**|
   | |game theory|博弈论
 GMM|Gaussian Mixture Model|高斯混合模型
 GA|Genetic Algorithm|遗传算法
-  | |Generalization|泛化
+  | |Generalization|泛化
 [GAN](https://arxiv.org/abs/1406.2661)|Generative Adversarial Networks|生成对抗网络
   | |Generative Model|生成模型
-  | |Generator|生成器
-  | |Global Optimization|全局优化
+  | |Generator|生成器
+  | |Global Optimization|全局优化
 [GNMT](https://arxiv.org/abs/1609.08144)|Google Neural Machine Translation|谷歌神经机器翻译
   | |Gradient Descent|梯度下降
   | |graph theory|图论
 GPU|graphics processing unit|图形处理单元/图形处理器
   |**H**|
 HDM|hidden dynamic model|隐动态模型
-  | |hidden layer|隐藏层
+| |hidden layer|隐藏层
 HMM|Hidden Markov Model|隐马尔可夫模型
   | |hybrid computing|混合计算
-  | |hyperparameter|超参数
+  | |hyperparameter|超参数
   |**I**|
 ICA|Independent Component Analysis|独立成分分析
-  | |input|输入
+  | |input|输入
 [ICML](http://icml.cc/)|International Conference for Machine Learning|国际机器学习大会
   | |language phenomena|语言现象
   | |latent dirichlet allocation|隐含狄利克雷分布
@@ -109,10 +109,10 @@ JSD|Jensen-Shannon Divergence|JS距离
   |**K**|
   | |K-Means Clustering|K-均值聚类
 K-NN|K-Nearest Neighbours Algorithm|K-最近邻算法
-  | |Knowledge Representation|知识表征
+  | |Knowledge Representation|知识表征
 KB|knowledge base|知识库
   |**L**|
-  | |Latent Dirichlet Allocation|隐狄利克雷分布
+  | |Latent Dirichlet Allocation|隐狄利克雷分布
 LSA|latent semantic analysis| 潜在语义分析
   | |learner|学习器
   | |Linear Regression|线性回归
