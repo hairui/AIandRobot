@@ -115,7 +115,7 @@ KB|knowledge base|知识库
   | |Latent Dirichlet Allocation|隐狄利克雷分布
 LSA|latent semantic analysis| 潜在语义分析
   | |learner|学习器
-  | |Linear Regression|线性回归
+  | |Linear Regression|线性回归
   | |log likelihood|对数似然
   | |Logistic Regression|Logistic回归
 [LSTM](http://deeplearning.cs.cmu.edu/pdfs/Hochreiter97_lstm.pdf)|Long-Short Term Memory|长短期记忆
@@ -129,7 +129,7 @@ MT|machine translation|机器翻译
 MLP|Multilayer Perceptron|多层感知器
   | |multi-document summarization|多文档摘要
 MLP|multi layered perceptron|多层感知器
-  | |multimodal learning|多模态学习
+  | |multimodal learning|多模态学习
   | |multiple linear regression|多元线性回归
   |**N**|
   | |Naive Bayes Classifier|朴素贝叶斯分类器
