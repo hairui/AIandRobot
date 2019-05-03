@@ -116,16 +116,16 @@ KB|knowledge base|知识库
 LSA|latent semantic analysis| 潜在语义分析
   | |learner|学习器
   | |Linear Regression|线性回归
-  | |log likelihood|对数似然
+  | |log likelihood|对数似然
   | |Logistic Regression|Logistic回归
 [LSTM](http://deeplearning.cs.cmu.edu/pdfs/Hochreiter97_lstm.pdf)|Long-Short Term Memory|长短期记忆
-  | |loss|损失
+  | |loss|损失
   |**M**|
 MT|machine translation|机器翻译
   | |Max-Pooling|最大池化
   | |Maximum Likelihood|最大似然
-  | |minimax game|最小最大博弈
-  | |Momentum|动量
+  | |minimax game|最小最大博弈
+  | |Momentum|动量
 MLP|Multilayer Perceptron|多层感知器
   | |multi-document summarization|多文档摘要
 MLP|multi layered perceptron|多层感知器
@@ -134,24 +134,24 @@ MLP|multi layered perceptron|多层感知器
   |**N**|
   | |Naive Bayes Classifier|朴素贝叶斯分类器
   | |named entity recognition|命名实体识别
-  | |Nash equilibrium|纳什均衡
+  | |Nash equilibrium|纳什均衡
 NLG|natural language generation|自然语言生成
 NLP|natural language processing	|自然语言处理
 NLL|Negative Log Likelihood|负对数似然
 NMT|Neural Machine Translation|神经机器翻译
 NTM|Neural Turing Machine|神经图灵机
 NCE|noise-contrastive estimation|噪音对比估计
-  | |non-convex optimization|非凸优化
+  | |non-convex optimization|非凸优化
   | |non-negative matrix factorization|非负矩阵分解
   | |Non-Saturating Game|非饱和博弈
   |**O**|
-  | |objective function|目标函数
+  | |objective function|目标函数
   | |Off-Policy|离策略
   | |On-Policy|在策略
   | |one shot learning|一次性学习
-  | |output|输出
+  | |output|输出
   |**P**|
-  | |Parameter|参数
+  | |Parameter|参数
   | |parse tree|解析树
   | |part-of-speech tagging|词性标注
 PSO|Particle Swarm Optimization|粒子群优化算法
