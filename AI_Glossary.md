@@ -10,27 +10,27 @@
   | |agent|代理/智能体
   | |algorithm|算法
   | |alpha-beta pruning|α-β剪枝
-  | |anomaly detection|异常检测
+  |anomaly detection|异常检测
   | |approximation|近似
-AGI|Artificial General Intelligence|通用人工智能
+|AGI|Artificial General Intelligence|通用人工智能
 AI|Artificial Intelligence|人工智能
-  |association analysis|关联分析
-  |attention mechanism|注意机制
-  |autoencoder|自编码器
-ASR|automatic speech recognition|自动语音识别
-  |automatic summarization|自动摘要
-  |average gradient|平均梯度
-  |Average-Pooling|平均池化
+  | |association analysis|关联分析
+  | |attention mechanism|注意机制
+  | |autoencoder|自编码器
+|ASR|automatic speech recognition|自动语音识别
+  | |automatic summarization|自动摘要
+  | |average gradient|平均梯度
+  | |Average-Pooling|平均池化
   |**B**|
 BP|backpropagation|反向传播
 BPTT|Backpropagation Through Time|通过时间的反向传播
 BN|Batch Normalization|分批标准化
-  |Bayesian network|贝叶斯网络
-  |Bias-Variance Dilemma|偏差/方差困境
+  | |Bayesian network|贝叶斯网络
+  | |Bias-Variance Dilemma|偏差/方差困境
 Bi-LSTM|Bi-directional Long-Short Term Memory|双向长短期记忆
-  |bias|偏置/偏差
-  |big data|大数据
-  |Boltzmann machine|玻尔兹曼机
+  | |bias|偏置/偏差
+  | |big data|大数据
+  | |Boltzmann machine|玻尔兹曼机
   |**C**|
 CPU|Central Processing Unit|中央处理器
   |chunk|词块
