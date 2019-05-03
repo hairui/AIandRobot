@@ -10,10 +10,10 @@
   | |agent|代理/智能体
   | |algorithm|算法
   | |alpha-beta pruning|α-β剪枝
-  |anomaly detection|异常检测
+  | |anomaly detection|异常检测
   | |approximation|近似
 |AGI|Artificial General Intelligence|通用人工智能
-AI|Artificial Intelligence|人工智能
+|AI|Artificial Intelligence|人工智能
   | |association analysis|关联分析
   | |attention mechanism|注意机制
   | |autoencoder|自编码器
@@ -22,17 +22,17 @@ AI|Artificial Intelligence|人工智能
   | |average gradient|平均梯度
   | |Average-Pooling|平均池化
   |**B**|
-BP|backpropagation|反向传播
-BPTT|Backpropagation Through Time|通过时间的反向传播
-BN|Batch Normalization|分批标准化
+|BP|backpropagation|反向传播
+|BPTT|Backpropagation Through Time|通过时间的反向传播
+|BN|Batch Normalization|分批标准化
   | |Bayesian network|贝叶斯网络
   | |Bias-Variance Dilemma|偏差/方差困境
-Bi-LSTM|Bi-directional Long-Short Term Memory|双向长短期记忆
+|Bi-LSTM|Bi-directional Long-Short Term Memory|双向长短期记忆
   | |bias|偏置/偏差
   | |big data|大数据
   | |Boltzmann machine|玻尔兹曼机
   |**C**|
-CPU|Central Processing Unit|中央处理器
+|CPU|Central Processing Unit|中央处理器
   | |chunk|词块
   | |clustering|聚类
   | |cluster analysis|聚类分析
@@ -42,11 +42,11 @@ CPU|Central Processing Unit|中央处理器
   | |Computational Linguistics|计算语言学
   | |computer vision|计算机视觉
   | |concept drift|概念漂移
-CRF|conditional random field|条件随机域/场
+|CRF|conditional random field|条件随机域/场
   | |convergence|收敛
-CA|conversational agent|会话代理
+|CA|conversational agent|会话代理
   | |convexity|凸性
-CNN|convolutional neural network|卷积神经网络
+|CNN|convolutional neural network|卷积神经网络
   | |Cost Function|成本函数
   | |cross entropy|交叉熵
   |**D**|
